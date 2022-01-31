@@ -16,7 +16,7 @@
 .sk-ab.sk-Healthbotics {
 	background-color: #FFFFFF;
 	width: 1920px;
-	height: 2000px;
+	height: 2229px;
 }
 
 .sk-asset.sk-bg-c1-2 {
@@ -27,6 +27,24 @@
 	background-image: url("images/bg-c1 2.png");
 }
 
+@media only screen and (min--moz-device-pixel-ratio: 2),
+only screen and (-o-min-device-pixel-ratio: 2/1),
+only screen and (-webkit-min-device-pixel-ratio: 2),
+only screen and (min-device-pixel-ratio: 2) {
+	.sk-asset.sk-bg-c1-2 {
+		background-image: url("images/bg-c1 2@2x.png");
+		background-size: 1920px 900px;
+	}
+}
+@media only screen and (min--moz-device-pixel-ratio: 3),
+only screen and (-o-min-device-pixel-ratio: 3/1),
+only screen and (-webkit-min-device-pixel-ratio: 3),
+only screen and (min-device-pixel-ratio: 3) {
+	.sk-asset.sk-bg-c1-2 {
+		background-image: url("images/bg-c1 2@3x.png");
+		background-size: 1920px 900px;
+	}
+}
 .sk-asset.sk-bg-c2-2 {
 	width: 1920px;
 	height: 480px;
@@ -35,14 +53,24 @@
 	background-image: url("images/bg-c2 2.png");
 }
 
-.sk-asset.sk-bg-footer-2 {
-	width: 1920px;
-	height: 120px;
-	left: 0px;
-	top: 1880px;
-	background-image: url("images/bg-footer 2.png");
+@media only screen and (min--moz-device-pixel-ratio: 2),
+only screen and (-o-min-device-pixel-ratio: 2/1),
+only screen and (-webkit-min-device-pixel-ratio: 2),
+only screen and (min-device-pixel-ratio: 2) {
+	.sk-asset.sk-bg-c2-2 {
+		background-image: url("images/bg-c2 2@2x.png");
+		background-size: 1920px 480px;
+	}
 }
-
+@media only screen and (min--moz-device-pixel-ratio: 3),
+only screen and (-o-min-device-pixel-ratio: 3/1),
+only screen and (-webkit-min-device-pixel-ratio: 3),
+only screen and (min-device-pixel-ratio: 3) {
+	.sk-asset.sk-bg-c2-2 {
+		background-image: url("images/bg-c2 2@3x.png");
+		background-size: 1920px 480px;
+	}
+}
 .sk-asset.sk-img-healtbotics-tablet {
 	width: 869px;
 	height: 744px;
@@ -51,6 +79,24 @@
 	background-image: url("images/img-healtbotics-tablet.png");
 }
 
+@media only screen and (min--moz-device-pixel-ratio: 2),
+only screen and (-o-min-device-pixel-ratio: 2/1),
+only screen and (-webkit-min-device-pixel-ratio: 2),
+only screen and (min-device-pixel-ratio: 2) {
+	.sk-asset.sk-img-healtbotics-tablet {
+		background-image: url("images/img-healtbotics-tablet@2x.png");
+		background-size: 869px 744px;
+	}
+}
+@media only screen and (min--moz-device-pixel-ratio: 3),
+only screen and (-o-min-device-pixel-ratio: 3/1),
+only screen and (-webkit-min-device-pixel-ratio: 3),
+only screen and (min-device-pixel-ratio: 3) {
+	.sk-asset.sk-img-healtbotics-tablet {
+		background-image: url("images/img-healtbotics-tablet@3x.png");
+		background-size: 869px 744px;
+	}
+}
 .sk-asset.sk-Text-H3-Supporting {
 	width: 400px;
 	height: 253px;
@@ -59,6 +105,24 @@
 	background-image: url("images/Text/H3/Supporting.png");
 }
 
+@media only screen and (min--moz-device-pixel-ratio: 2),
+only screen and (-o-min-device-pixel-ratio: 2/1),
+only screen and (-webkit-min-device-pixel-ratio: 2),
+only screen and (min-device-pixel-ratio: 2) {
+	.sk-asset.sk-Text-H3-Supporting {
+		background-image: url("images/Text/H3/Supporting@2x.png");
+		background-size: 400px 253px;
+	}
+}
+@media only screen and (min--moz-device-pixel-ratio: 3),
+only screen and (-o-min-device-pixel-ratio: 3/1),
+only screen and (-webkit-min-device-pixel-ratio: 3),
+only screen and (min-device-pixel-ratio: 3) {
+	.sk-asset.sk-Text-H3-Supporting {
+		background-image: url("images/Text/H3/Supporting@3x.png");
+		background-size: 400px 253px;
+	}
+}
 .sk-asset.sk-Text-H3 {
 	width: 385px;
 	height: 50px;
@@ -67,6 +131,24 @@
 	background-image: url("images/Text/H3.png");
 }
 
+@media only screen and (min--moz-device-pixel-ratio: 2),
+only screen and (-o-min-device-pixel-ratio: 2/1),
+only screen and (-webkit-min-device-pixel-ratio: 2),
+only screen and (min-device-pixel-ratio: 2) {
+	.sk-asset.sk-Text-H3 {
+		background-image: url("images/Text/H3@2x.png");
+		background-size: 385px 50px;
+	}
+}
+@media only screen and (min--moz-device-pixel-ratio: 3),
+only screen and (-o-min-device-pixel-ratio: 3/1),
+only screen and (-webkit-min-device-pixel-ratio: 3),
+only screen and (min-device-pixel-ratio: 3) {
+	.sk-asset.sk-Text-H3 {
+		background-image: url("images/Text/H3@3x.png");
+		background-size: 385px 50px;
+	}
+}
 .sk-asset.sk-Text-H1 {
 	width: 553px;
 	height: 210px;
@@ -75,6 +157,24 @@
 	background-image: url("images/Text/H1.png");
 }
 
+@media only screen and (min--moz-device-pixel-ratio: 2),
+only screen and (-o-min-device-pixel-ratio: 2/1),
+only screen and (-webkit-min-device-pixel-ratio: 2),
+only screen and (min-device-pixel-ratio: 2) {
+	.sk-asset.sk-Text-H1 {
+		background-image: url("images/Text/H1@2x.png");
+		background-size: 553px 210px;
+	}
+}
+@media only screen and (min--moz-device-pixel-ratio: 3),
+only screen and (-o-min-device-pixel-ratio: 3/1),
+only screen and (-webkit-min-device-pixel-ratio: 3),
+only screen and (min-device-pixel-ratio: 3) {
+	.sk-asset.sk-Text-H1 {
+		background-image: url("images/Text/H1@3x.png");
+		background-size: 553px 210px;
+	}
+}
 .sk-asset.sk-HealthBotics-removes {
 	width: 611px;
 	height: 253px;
@@ -83,6 +183,24 @@
 	background-image: url("images/HealthBotics removes.png");
 }
 
+@media only screen and (min--moz-device-pixel-ratio: 2),
+only screen and (-o-min-device-pixel-ratio: 2/1),
+only screen and (-webkit-min-device-pixel-ratio: 2),
+only screen and (min-device-pixel-ratio: 2) {
+	.sk-asset.sk-HealthBotics-removes {
+		background-image: url("images/HealthBotics removes@2x.png");
+		background-size: 611px 253px;
+	}
+}
+@media only screen and (min--moz-device-pixel-ratio: 3),
+only screen and (-o-min-device-pixel-ratio: 3/1),
+only screen and (-webkit-min-device-pixel-ratio: 3),
+only screen and (min-device-pixel-ratio: 3) {
+	.sk-asset.sk-HealthBotics-removes {
+		background-image: url("images/HealthBotics removes@3x.png");
+		background-size: 611px 253px;
+	}
+}
 .sk-asset.sk-A-Computer-Vision-an {
 	width: 553px;
 	height: 144px;
@@ -91,6 +209,24 @@
 	background-image: url("images/A Computer Vision an.png");
 }
 
+@media only screen and (min--moz-device-pixel-ratio: 2),
+only screen and (-o-min-device-pixel-ratio: 2/1),
+only screen and (-webkit-min-device-pixel-ratio: 2),
+only screen and (min-device-pixel-ratio: 2) {
+	.sk-asset.sk-A-Computer-Vision-an {
+		background-image: url("images/A Computer Vision an@2x.png");
+		background-size: 553px 144px;
+	}
+}
+@media only screen and (min--moz-device-pixel-ratio: 3),
+only screen and (-o-min-device-pixel-ratio: 3/1),
+only screen and (-webkit-min-device-pixel-ratio: 3),
+only screen and (min-device-pixel-ratio: 3) {
+	.sk-asset.sk-A-Computer-Vision-an {
+		background-image: url("images/A Computer Vision an@3x.png");
+		background-size: 553px 144px;
+	}
+}
 .sk-asset.sk-Simple-Cost-Effecti {
 	width: 611px;
 	height: 50px;
@@ -99,6 +235,24 @@
 	background-image: url("images/Simple, Cost Effecti.png");
 }
 
+@media only screen and (min--moz-device-pixel-ratio: 2),
+only screen and (-o-min-device-pixel-ratio: 2/1),
+only screen and (-webkit-min-device-pixel-ratio: 2),
+only screen and (min-device-pixel-ratio: 2) {
+	.sk-asset.sk-Simple-Cost-Effecti {
+		background-image: url("images/Simple, Cost Effecti@2x.png");
+		background-size: 611px 50px;
+	}
+}
+@media only screen and (min--moz-device-pixel-ratio: 3),
+only screen and (-o-min-device-pixel-ratio: 3/1),
+only screen and (-webkit-min-device-pixel-ratio: 3),
+only screen and (min-device-pixel-ratio: 3) {
+	.sk-asset.sk-Simple-Cost-Effecti {
+		background-image: url("images/Simple, Cost Effecti@3x.png");
+		background-size: 611px 50px;
+	}
+}
 .sk-asset.sk-logo-healthbotics {
 	width: 100px;
 	height: 70px;
@@ -107,6 +261,24 @@
 	background-image: url("images/logo-healthbotics.png");
 }
 
+@media only screen and (min--moz-device-pixel-ratio: 2),
+only screen and (-o-min-device-pixel-ratio: 2/1),
+only screen and (-webkit-min-device-pixel-ratio: 2),
+only screen and (min-device-pixel-ratio: 2) {
+	.sk-asset.sk-logo-healthbotics {
+		background-image: url("images/logo-healthbotics@2x.png");
+		background-size: 100px 70px;
+	}
+}
+@media only screen and (min--moz-device-pixel-ratio: 3),
+only screen and (-o-min-device-pixel-ratio: 3/1),
+only screen and (-webkit-min-device-pixel-ratio: 3),
+only screen and (min-device-pixel-ratio: 3) {
+	.sk-asset.sk-logo-healthbotics {
+		background-image: url("images/logo-healthbotics@3x.png");
+		background-size: 100px 70px;
+	}
+}
 .sk-asset.sk-img-healtbotics-home {
 	width: 552px;
 	height: 361px;
@@ -115,6 +287,24 @@
 	background-image: url("images/img-healtbotics-home.png");
 }
 
+@media only screen and (min--moz-device-pixel-ratio: 2),
+only screen and (-o-min-device-pixel-ratio: 2/1),
+only screen and (-webkit-min-device-pixel-ratio: 2),
+only screen and (min-device-pixel-ratio: 2) {
+	.sk-asset.sk-img-healtbotics-home {
+		background-image: url("images/img-healtbotics-home@2x.png");
+		background-size: 552px 361px;
+	}
+}
+@media only screen and (min--moz-device-pixel-ratio: 3),
+only screen and (-o-min-device-pixel-ratio: 3/1),
+only screen and (-webkit-min-device-pixel-ratio: 3),
+only screen and (min-device-pixel-ratio: 3) {
+	.sk-asset.sk-img-healtbotics-home {
+		background-image: url("images/img-healtbotics-home@3x.png");
+		background-size: 552px 361px;
+	}
+}
 .sk-asset.sk-img-healtbotics-report {
 	width: 501px;
 	height: 376px;
@@ -123,6 +313,24 @@
 	background-image: url("images/img-healtbotics-report.png");
 }
 
+@media only screen and (min--moz-device-pixel-ratio: 2),
+only screen and (-o-min-device-pixel-ratio: 2/1),
+only screen and (-webkit-min-device-pixel-ratio: 2),
+only screen and (min-device-pixel-ratio: 2) {
+	.sk-asset.sk-img-healtbotics-report {
+		background-image: url("images/img-healtbotics-report@2x.png");
+		background-size: 501px 376px;
+	}
+}
+@media only screen and (min--moz-device-pixel-ratio: 3),
+only screen and (-o-min-device-pixel-ratio: 3/1),
+only screen and (-webkit-min-device-pixel-ratio: 3),
+only screen and (min-device-pixel-ratio: 3) {
+	.sk-asset.sk-img-healtbotics-report {
+		background-image: url("images/img-healtbotics-report@3x.png");
+		background-size: 501px 376px;
+	}
+}
 .sk-asset.sk-img-healtbotics-report {
 	width: 562px;
 	height: 395px;
@@ -130,3 +338,29 @@
 	top: 1442px;
 }
 
+.sk-asset.sk-Group-2 {
+	width: 1920px;
+	height: 200px;
+	left: 0px;
+	top: 2029px;
+	background-image: url("images/Group 2.png");
+}
+
+@media only screen and (min--moz-device-pixel-ratio: 2),
+only screen and (-o-min-device-pixel-ratio: 2/1),
+only screen and (-webkit-min-device-pixel-ratio: 2),
+only screen and (min-device-pixel-ratio: 2) {
+	.sk-asset.sk-Group-2 {
+		background-image: url("images/Group 2@2x.png");
+		background-size: 1920px 200px;
+	}
+}
+@media only screen and (min--moz-device-pixel-ratio: 3),
+only screen and (-o-min-device-pixel-ratio: 3/1),
+only screen and (-webkit-min-device-pixel-ratio: 3),
+only screen and (min-device-pixel-ratio: 3) {
+	.sk-asset.sk-Group-2 {
+		background-image: url("images/Group 2@3x.png");
+		background-size: 1920px 200px;
+	}
+}
