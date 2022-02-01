@@ -338,20 +338,20 @@ only screen and (min-device-pixel-ratio: 3) {
 	top: 1442px;
 }
 
-.sk-asset.sk-Group-2 {
+.sk-asset.sk-Group-3 {
 	width: 1920px;
 	height: 200px;
 	left: 0px;
 	top: 2029px;
-	background-image: url("images/Group 2.png");
+	background-image: url("images/Group 3.png");
 }
 
 @media only screen and (min--moz-device-pixel-ratio: 2),
 only screen and (-o-min-device-pixel-ratio: 2/1),
 only screen and (-webkit-min-device-pixel-ratio: 2),
 only screen and (min-device-pixel-ratio: 2) {
-	.sk-asset.sk-Group-2 {
-		background-image: url("images/Group 2@2x.png");
+	.sk-asset.sk-Group-3 {
+		background-image: url("images/Group 3@2x.png");
 		background-size: 1920px 200px;
 	}
 }
@@ -359,8 +359,8 @@ only screen and (min-device-pixel-ratio: 2) {
 only screen and (-o-min-device-pixel-ratio: 3/1),
 only screen and (-webkit-min-device-pixel-ratio: 3),
 only screen and (min-device-pixel-ratio: 3) {
-	.sk-asset.sk-Group-2 {
-		background-image: url("images/Group 2@3x.png");
+	.sk-asset.sk-Group-3 {
+		background-image: url("images/Group 3@3x.png");
 		background-size: 1920px 200px;
 	}
 }
